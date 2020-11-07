@@ -1,6 +1,6 @@
 # TeamLiquidHacks 
 
-Project with python and machine learning in otder to predict League of Legends ranked games outcome.
+Project with python and machine learning in order to predict League of Legends ranked games outcome.
 
 Data.py - (description)
 
