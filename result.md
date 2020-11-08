@@ -8,12 +8,12 @@ CSGO is an FPS game that gained huge traction due to the difference from how it 
 * [Player and Torunament WCS points source](https://liquipedia.net/starcraft2/2015_StarCraft_II_World_Championship_Series/Standings)
 
 ![linechart](/images/linechart.png)
-## **_Research: What happen from 2012 to 2014 that caused esports to be 'huge'?_**
+## **_Research: What happen from 2012 to 2014 that caused Esports to be so 'huge'?_**
 The huge new addition of MOBAs gaming such as Dota 2, Warcraft III, and League of Legends made an entrance into the esports world gaining exponential audience in the beginning of 2012. The main start off was by League of Legends hosting a competitive scene with their five championships regions of North America, Europe, Korea, China, and Taiwan.
 
 
 ![wordcloud](/images/wordcloud.png)
-## **_Research: Why are twitch and alienware sponsers are more frequent in the esport industry?_**
+## **_Research: Why are Twitch and Alienware sponsors are more frequent in the esport industry?_**
 For Twitch it is a popular streaming website where gamers can stream their online gaming experience. As new games are also being released streamers and audience can grow up to over millions of viewerships. Esports gains traction from games especially League of Legends, the number one most viewed game and as well as few others. With this foundation, it is able to gain recognition of new sponsors and previous sponsors such as Alienware. Moreover, one of the most notable is Alienware sponsoring Team Liquid!
 <img src="/images/blue3.gif" width="30%"> <img src="/images/alienware.jpg" width="50%">
 * [Twitch Statistical Tracker](https://twitchtracker.com/statistics)
