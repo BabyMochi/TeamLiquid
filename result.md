@@ -3,13 +3,13 @@
 
 ![barplot](/images/barplot.png)
 ## **_Research: Why does SC2 and CSGO have so many tournaments?_** 
-For Starcraft 2 one primary reason is that they have what’s called Blizzcon, towards the end of the year where top 16 players with the most WCS (World Championship Series) points can go. In order to get those points, there are smaller tournaments that give out WCS points depending on how big it is. Furthermore, the SC2 Proleague is most prestigious team in Korea which gives it all its hype! 
-CSGO is an FPS game that gained huge traction due to its difference from how it is played. CSGO, unlike any other games, are skill-based where you actually have to aim and you aren’t guaranteed the kill. Along with this, the maps are team-based game where you can’t respawn. These elements help the immense growth of CSGO where there become more players and with more players there are more tournaments.
+For Starcraft 2 one primary reason is that they have what’s called BlizzCon, towards the end of the year where top 16 players with the most WCS (World Championship Series) points can go. In order to get those points, there are smaller tournaments that give out WCS points depending on how big it is. Furthermore, the SC2 Proleague is most prestigious team in Korea which gives it all its hype! 
+CSGO is an FPS game that gained huge traction due to the difference from how it is played. CSGO, unlike any other games, are skill-based where you actually have to aim and you aren’t guaranteed the kill. Along with this, the maps are team-based game where you can’t respawn. These elements help the immense growth of CSGO where there become more players and with more players there are more tournaments.
 * [Player and Torunament WCS points source](https://liquipedia.net/starcraft2/2015_StarCraft_II_World_Championship_Series/Standings)
 
 ![linechart](/images/linechart.png)
 ## **_Research: What happen from 2012 to 2014 that caused esports to be 'huge'?_**
-The huge new addition of MOBAs gaming such as Dota, Warcraft III, and League of Legends made an entrance into the esports world gaining exponential audience in the beginning of 2012. The main start off was by League of Legends hosting a competitive scene with their five championships regions of North America, Europe, Korea, China, and Taiwan.
+The huge new addition of MOBAs gaming such as Dota 2, Warcraft III, and League of Legends made an entrance into the esports world gaining exponential audience in the beginning of 2012. The main start off was by League of Legends hosting a competitive scene with their five championships regions of North America, Europe, Korea, China, and Taiwan.
 
 
 ![wordcloud](/images/wordcloud.png)
