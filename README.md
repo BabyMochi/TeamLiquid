@@ -1,7 +1,7 @@
 # TeamLiquidHacks 
 ###### [TL Twitter Event Information](https://twitter.com/teamliquid) 
 ###### [TL Twitch Livestream](https://www.twitch.tv/teamliquid)
-![](blue.gif)
+![](images/blue1.gif) ![](images/blue.gif)  ![](images/blue2.gif)
 
 # Description
 ###### _The dataset comes from [Internal Liquipedia Tourament API](https://api.liquipedia.net). It personally generated and cleaned to suit our project's objective._
