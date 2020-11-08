@@ -22,4 +22,4 @@ For Twitch it is a popular streaming website where gamers can stream their onlin
 ![word](/images/word.PNG)
 ## **_Research: Why is many esport tournaments held in the U.s._**
 In a sense, most Esports tournaments are held in the U.S. because of the games that were created in the U.S. and where it gained traction, mostly with the rise of Major League Gaming (MLG) with FPS and MOBA gaming. With huge concurrent viewers, it is a fast-growing industry where people start making a living off of.
-* [Rise of Espots](https://www.ign.com/articles/2013/07/25/the-rise-of-esports-in-america)
+* [Rise of Esports](https://www.ign.com/articles/2013/07/25/the-rise-of-esports-in-america)
